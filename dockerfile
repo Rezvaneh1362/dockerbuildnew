@@ -1,3 +1,3 @@
-FROM alpine
-RUN apk update
-RUN apk add curl
+FROM	alpine
+RUN	apk update
+RUN	apk add curl
